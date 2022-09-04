@@ -5,7 +5,7 @@ public class questão4 {
 	public static void main(String[] args) {
 		int j;
 		for(j=0;j<=100;j+=2) {
-			System.out.print(j + " - ");
+			System.out.print(j + ",");
 		}
 	}
 
