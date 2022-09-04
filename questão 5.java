@@ -5,7 +5,7 @@ public class questão5 {
 	public static void main(String[] args) {
 		int k;
 		for(k=0;k<=99;k+=3) {
-			System.out.print(k + " - ");
+			System.out.print(k + ",");
 		}
 	}
 
